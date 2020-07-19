@@ -15,7 +15,7 @@ Mặc dụ trên thị trường hiện nay hầu hết các máy tính điều 
 
 Từ cloud storage, space rockets đến cái xe hơi, tủ lạnh nhà bạn cũng có khả năng cao chúng chạy hệ điều hành Linux.
 
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/07/19-13-31-32-what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg?token=AKVE6RPTUAIC22YYZIMU4427CPURU" title="" alt="what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" width="421">
+
 
 | [Tìm hiểu thêm]((https://www.cyberciti.biz/humour/dad-what-are-clouds-made-of-in-it/)) |
 | -------------------------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ Nếu bạn muốn bắt đầu tôi khuyên bạn nên sử dụng [Pop OS!](ht
 | 💎 Tôi giả sử rằng bạn đã cài đặt Linux Distro thành công. Nếu bạn chưa làm điều đó, bạn hãy check phần hướng dẫn bên dưới. |
 | --------------------------------------------------------------------------------------------------------------------------- |
 
-<img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/07/19-13-51-38-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-07-19%20lu%CC%81c%2013.51.20.png?token=AKVE6RIZ26WQLS2JXF3RWOK7CPW5A" alt="Ảnh chụp Màn hình 2020-07-19 lúc 13.51.20.png" width="457">
+
 
 Đây chính là Terminal của Linux🌀. Đây sẽ là nơi bạn gõ hầu hết các câu lệnh thực thi. 
 
