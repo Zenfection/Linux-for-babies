@@ -8,14 +8,14 @@ Một máy tính bao gồm các bộ phận vật lý gọi là <u>Phần cứng
 
 Hầu hết máy tính đều có 1 phần mềm quản lý tất cả các chương trình khác và điều khiển phần cứng của máy tính => đó được gọi là <u>hệ điều hành</u> **(OS)**
 
-Mặc dụ trên thị trường hiện nay hầu hết các máy tính điều sử dụng Windows và 1 số sử dụng Mac OS (Apple) nhưng với tôi Linux vẫn là hệ điều hành **đa năng** và **linh hoạt** nhất.
+Mặc dù trên thị trường hiện nay hầu hết các máy tính điều sử dụng Windows và 1 số sử dụng Mac OS (Apple) nhưng với tôi Linux vẫn là hệ điều hành **đa năng** và **linh hoạt** nhất.
 
 | 💎Sự thật thú vị:  Linux được lấy cảm hứng từ hệ điều hành cũ có tên là "Unix" vậy nên dĩ nhiên Linux không phải là Unix. Cái tên "Linux" là sự kết kết hợp của người tạo ra nó "[Linus Torvalds](https://vi.wikipedia.org/wiki/Linus_Torvalds)" và "[Unix](https://vi.wikipedia.org/wiki/Unix)" |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 Từ cloud storage, space rockets đến cái xe hơi, tủ lạnh nhà bạn cũng có khả năng cao chúng chạy hệ điều hành Linux.
 
-
+<img src="https://raw.githubusercontent.com/Zenfection/Linux/master/2020/07/19-14-34-15-what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" title="" alt="what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" width="488">
 
 | [Tìm hiểu thêm]((https://www.cyberciti.biz/humour/dad-what-are-clouds-made-of-in-it/)) |
 | -------------------------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ Nếu bạn muốn bắt đầu tôi khuyên bạn nên sử dụng [Pop OS!](ht
 | 💎 Tôi giả sử rằng bạn đã cài đặt Linux Distro thành công. Nếu bạn chưa làm điều đó, bạn hãy check phần hướng dẫn bên dưới. |
 | --------------------------------------------------------------------------------------------------------------------------- |
 
-
+<img src="https://raw.githubusercontent.com/Zenfection/Linux/master/2020/07/19-14-33-06-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-07-19%20lu%CC%81c%2014.33.00.png" title="" alt="Ảnh chụp Màn hình 2020-07-19 lúc 14.33.00.png" width="415">
 
 Đây chính là Terminal của Linux🌀. Đây sẽ là nơi bạn gõ hầu hết các câu lệnh thực thi. 
 
