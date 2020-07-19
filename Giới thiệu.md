@@ -15,7 +15,7 @@ Mặc dụ trên thị trường hiện nay hầu hết các máy tính điều 
 
 Từ cloud storage, space rockets đến cái xe hơi, tủ lạnh nhà bạn cũng có khả năng cao chúng chạy hệ điều hành Linux.
 
-<img src="/Users/zenfection/Library/Application%20Support/Space%20Drop/Space%20Drop%20Files/1628C514-B943-43A3-B432-A7F121BC36D3/what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" title="" alt="what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" width="444">
+<img src="https://raw.githubusercontent.com/Zenfection/Linux/master/2020/07/19-13-28-31-what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" title="" alt="what-are-cloud-in-cloud-computing-is-made-of-dad.jpeg.jpg" width="453">
 
 | [Tìm hiểu thêm]((https://www.cyberciti.biz/humour/dad-what-are-clouds-made-of-in-it/)) |
 | -------------------------------------------------------------------------------------- |
