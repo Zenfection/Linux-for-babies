@@ -20,6 +20,8 @@ Từ cloud storage, space rockets đến cái xe hơi, tủ lạnh nhà bạn c�
 | [Tìm hiểu thêm]((https://www.cyberciti.biz/humour/dad-what-are-clouds-made-of-in-it/)) |
 | -------------------------------------------------------------------------------------- |
 
+---
+
 ## 2.Tại sao sử dụng Linux
 
 Có rất nhiều lý do để bạn chọn Linux thay cho các hệ điều hành khác, thực tế nhất là vì nó **miễn phí**
@@ -46,6 +48,8 @@ Sau đây là một số lý do để bạn dùng Linux:
   | [Stack Overflow Survery 2020](https://insights.stackoverflow.com/survey/2020#technology-_-platforms) |
   | ---------------------------------------------------------------------------------------------------- |
 
+---
+
 ## 3.Nên chọn Linux distro nào
 
 Bởi vì Linux rất phổ biến và có thể tuỳ biến hoàn toàn nên là hiện nay có hơn 600 phiên bản Linux khác nhau cho những công việc khác nhau, trong thuật ngữ kỹ thuật gọi đó là <u>bản phân phối</u> **(distributions)** hay gọi tắt là **distro**
@@ -58,3 +62,57 @@ Nếu bạn muốn bắt đầu tôi khuyên bạn nên sử dụng [Pop OS!](ht
 
 | [DistroWatch](https://distrowatch.com/) | [Linus Distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions?wprov=sfla1) |
 | --------------------------------------- | -------------------------------------------------------------------------------------------- |
+
+---
+
+## 4. Dòng lệnh đầu tiên
+
+   Tất cả những điều trên, tôi vẫn chưa chỉ cho bạn cách xài Linux 😅.
+
+| 💎 Tôi giả sử rằng bạn đã cài đặt Linux Distro thành công. Nếu bạn chưa làm điều đó, bạn hãy check phần hướng dẫn bên dưới. |
+| --------------------------------------------------------------------------------------------------------------------------- |
+
+<img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/07/19-13-51-38-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-07-19%20lu%CC%81c%2013.51.20.png?token=AKVE6RIZ26WQLS2JXF3RWOK7CPW5A" alt="Ảnh chụp Màn hình 2020-07-19 lúc 13.51.20.png" width="457">
+
+Đây chính là Terminal của Linux🌀. Đây sẽ là nơi bạn gõ hầu hết các câu lệnh thực thi. 
+
+Những gì bạn ở hình ảnh trên là cách dùng lệnh **<mark>echo</mark>** để in chữ ra màn hình
+
+| 💎Tôi sẽ giải thích cách câu lệnh in hoạt động trong bài học tiếp theo |
+| ---------------------------------------------------------------------- |
+
+Câu lệnh chỉ là đoạn văn bản mà bạn gõ vào **terminal**. Hãy nghĩ rằng đó là 1 hướng dẫn mà bạn đưa cho máy tính của bạn]
+
+Phần chính của **Terminal** là **đọc văn bản** và **thực thi** chúng **<mark>shell</mark>**.
+
+### Hướng dẫn cài đặt PopOS dual Window
+
+| [ISO PopOS](https://pop.system76.com/) | [Balena Etcher](https://www.balena.io/etcher/) | [Dual Window](https://www.youtube.com/watch?v=PBDpoinL-k8) |
+| -------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+
+<u>**Bước 1:**</u>
+
+- Tải **[ISO PopOS]()** phù hợp
+- Tải **[Balena Etcher](https://www.balena.io/etcher/)**
+- Chuẩn bị **USB** 4GB trở lên
+
+<u>**Bước 2:**</u>
+
+- Làm theo video sau: [How to Dual Boot Pop!_OS with Windows 10 (UEFI Firmware)](https://www.youtube.com/watch?v=PBDpoinL-k8)
+
+**💎Lưu ý**: Vào BIOS, **tắt Fastboot**, **tắt Secure Boot**, set **Sata Mode => AHCI**
+
+---
+
+## 5. Một số thuật ngữ chung
+
+Chúng ta sẽ học một vài quy định trong khoá này nhé!!!
+
+**Linux** đi cùng với phiên bản cải tiến của **shell**, nó gọi là **bash**🌀. Từ bây giờ chúng ta có thể dùng thuật ngữ này để thay thế cho nhau.
+
+| 💎bash cũng  đề cập đơn ngôn ngữ lập trình được sử dụng để thông dịch  code trong shell |
+| --------------------------------------------------------------------------------------- |
+
+Đôi khi bạn có thể gõ những câu lệnh không thực hiện được bị **hạn chế**. Đó là nơi của **root user**. Có duy nhất một **admin user** làm được với mọi quyền hành trong OS, nó cũng được gọi là **superuser**
+
+Trình quản lý gói **(Package Manager)** là nơi mà bạn có thể cài đặt, gỡ cài đặt một phần mềm bất kỳ nào đó 1 cách nhẹ nhàng. Hãy nghĩ nó như 1 ứng dụng để quản lý các ứng dụng
