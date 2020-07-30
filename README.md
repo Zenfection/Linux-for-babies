@@ -16,7 +16,13 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ### ——Người dùng & quản lí file
 
-#### ➡ [Bài 1.Giới thiệu]()
+#### ➡ [Bài 1.Giới thiệu]([Linux-for-babies/1.Giới thiệu.md at master · Zenfection/Linux-for-babies · GitHub](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md))
+
+#### ➡ [Bài 2.]()
+
+#### ➡ [Bài 4.]()
+
+#### ➡ [Bài 5.]()
 
 ### ——Công việc & quy trình thao tác dữ liệu
 
