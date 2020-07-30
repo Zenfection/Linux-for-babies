@@ -16,13 +16,13 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ### ——Người dùng & quản lí file
 
-#### ➡ [Bài 1.Giới thiệu]([Linux-for-babies/1.Giới thiệu.md at master · Zenfection/Linux-for-babies · GitHub](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md))
+#### ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md)
 
-#### ➡ [Bài 2.]()
+#### ➡ [Bài 2.Biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/2.Biến%20môi%20trường.md)
 
-#### ➡ [Bài 4.]()
+#### ➡ [Bài 3.Vận dụng biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/3.Vận%20dụng%20biến%20môi%20trường.md)
 
-#### ➡ [Bài 5.]()
+#### ➡ [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/4.Quản%20lí%20file.md)
 
 ### ——Công việc & quy trình thao tác dữ liệu
 
