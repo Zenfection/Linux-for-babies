@@ -12,7 +12,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ## Mục lục:
 
-#### ——Người dùng & quản lí file
+### ——Người dùng & quản lí file
 
             ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md)
 
@@ -22,8 +22,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡ [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/4.Quản%20lí%20file.md)
 
-#### ——Công việc & quy trình thao tác dữ liệu
+### ——Công việc & quy trình thao tác dữ liệu
 
-#### —— Hệ thống & Quản lí gói
+### —— Hệ thống & Quản lí gói
 
-#### —— Mạng & Bảo mật
+### —— Mạng & Bảo mật
