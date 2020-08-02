@@ -14,19 +14,19 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ### ——Người dùng & quản lí file
 
-            ➡ [Bài 1.Giới thiệu](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md)
+            ➡  [Bài 1.Giới thiệu](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md)
 
-            ➡ [Bài 2.Biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/2.Biến%20môi%20trường.md)
+            ➡  [Bài 2.Biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/2.Biến%20môi%20trường.md)
 
-            ➡ [Bài 3.Vận dụng biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/3.Vận%20dụng%20biến%20môi%20trường.md)
+            ➡  [Bài 3.Vận dụng biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/3.Vận%20dụng%20biến%20môi%20trường.md)
 
-            ➡ [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/4.Quản%20lí%20file.md)
+            ➡  [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/4.Quản%20lí%20file.md)
 
-            ➡ [Bài 5.Quyền truy cập file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/5.Quyền%20truy%20cập%20file.md)
+            ➡  [Bài 5.Quyền truy cập file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/5.Quyền%20truy%20cập%20file.md)
 
-            ➡[Bài 6.Mẹo quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/6.Mẹo%20quản%20lí%20file.md)
+            ➡  [Bài 6.Mẹo quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/6.Mẹo%20quản%20lí%20file.md)
 
-            ➡[Bài 7.Shell](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/7.Shell.md)
+            ➡  [Bài 7.Shell](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/7.Shell.md)
 
 ### ——Công việc & quy trình thao tác dữ liệu
 
