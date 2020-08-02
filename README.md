@@ -30,6 +30,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 8.Pipelines](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/8.PIPELINES.md)
 
+            ➡  [Bài 9.Quản lí người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/9.Quản%20lí%20người%20dùng.md)
+
 ### ——Công việc & quy trình thao tác dữ liệu
 
 ### —— Hệ thống & Quản lí gói
