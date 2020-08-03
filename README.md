@@ -14,23 +14,23 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ### ——Người dùng & quản lí file
 
-            ➡  [Bài 1.Giới thiệu](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/1.Giới%20thiệu.md)
+            ➡  [Bài 1.Giới thiệu](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/1.Introduction.md)
 
-            ➡  [Bài 2.Biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/2.Biến%20môi%20trường.md)
+            ➡  [Bài 2.Biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/2.Environment%20Variables.md)
 
-            ➡  [Bài 3.Vận dụng biến môi trường](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/3.Vận%20dụng%20biến%20môi%20trường.md)
+            ➡  [Bài 3.Thao tác biến](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/3.Manipulating%20Variables.md)
 
-            ➡  [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/4.Quản%20lí%20file.md)
+            ➡  [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/4.Quản%20lí%20file.md)
 
-            ➡  [Bài 5.Quyền truy cập file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/5.Quyền%20truy%20cập%20file.md)
+            ➡  [Bài 5.Quyền truy cập file](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/5.File%20Permissions.md)
 
-            ➡  [Bài 6.Mẹo quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/6.Mẹo%20quản%20lí%20file.md)
+            ➡  [Bài 6.Mẹo quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/6.File%20Management%20Tips.md)
 
-            ➡  [Bài 7.Shell](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/7.Shell.md)
+            ➡  [Bài 7.Shell](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/7.Shell.md)
 
-            ➡  [Bài 8.Pipelines](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/8.PIPELINES.md)
+            ➡  [Bài 8.Pipelines](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/8.Pipelines.md)
 
-            ➡  [Bài 9.Quản lí người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/Người%20dùng%20và%20quản%20lí%20file/9.Quản%20lí%20người%20dùng.md)
+            ➡  [Bài 9.Quản lí người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/9.User%20Management.md)
 
 ### ——Công việc & quy trình thao tác dữ liệu
 
