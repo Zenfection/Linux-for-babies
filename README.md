@@ -20,7 +20,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 3.Thao tác biến](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/3.Manipulating%20Variables.md)
 
-            ➡  [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/4.Quản%20lí%20file.md)
+            ➡  [Bài 4.Quản lí file](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/4.File%20Management.md)
 
             ➡  [Bài 5.Quyền truy cập file](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/5.File%20Permissions.md)
 
@@ -31,6 +31,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
             ➡  [Bài 8.Pipelines](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/8.Pipelines.md)
 
             ➡  [Bài 9.Quản lí người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/9.User%20Management.md)
+
+            ➡  [Bài 10.Quyền truy cập người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/10.User%20Permissions.md)
 
 ### ——Công việc & quy trình thao tác dữ liệu
 
