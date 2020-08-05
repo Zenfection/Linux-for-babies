@@ -34,6 +34,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 10.Quyền truy cập người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/10.User%20Permissions.md)
 
+            ➡  [Bài 11.Những tips sử dụng cho Terminal](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/11.Terminal%20Power%20User%20Tips.md)
+
 ### ——Công việc & quy trình thao tác dữ liệu
 
 ### —— Hệ thống & Quản lí gói
