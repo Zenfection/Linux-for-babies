@@ -38,6 +38,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 12.Điều kiện](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/12.Coditions.md)
 
+            ➡  [Bài 13.Mẹo quản lí file phần 2](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/13.File%20Management%20tips%202.md)
+
 ### ——Công việc & quy trình thao tác dữ liệu
 
 ### —— Hệ thống & Quản lí gói
