@@ -1,0 +1,106 @@
+## Lịch sử Terminal
+
+# 1. Lịch sử tìm kiếm của **`bash`**
+
+Bạn có thể tìm kiếm lịch sử **`bash`** bằng cách sử dụng **`CTRL+R`**. 
+
+**Ví dụ:** quét bởi *nano yields*
+
+```shell
+(reserve-i-search)'nano':
+    sudo nano /etc/resolv.conf
+```
+
+Nó tìm kiếm mọi phần của lệnh (cả comment nữa) và hiển thị lần gần đây nhất.
+
+Để xoay vòng các lựa chọn thay thế hãy nhấn giữ **`CTRL+R`**.
+
+---
+
+## 2. Giữ lệnh hữu ích trong lịch sử shell của bạn với **`tags`**
+
+Lệnh **Tag** tham khảo trong tương lai:
+
+```shell
+$ some_command 
+    -some_flag some_path #useful
+```
+
+Sau đó nó có thể tìm kiếm **`bash`** của bạn với **`CTRL+R`**:
+
+```shell
+$ some_command
+    -some_flag some_path #useful
+bck-i-search: useful
+```
+
+Mặc dù **`#useful`** chỉ sử dụng là comment trong **`bash`**, bạn không bị giới hạn bởi từ này. Bạn cũng có thể chỉ tìm kiếm cho lệnh rằng bạn sử dụng nó gần đây. Vì thế, tạo **tags** có thể tiết kiệm thời gian của bạn rất nhiều.
+
+```shell
+$ some_command
+    -some_flag some_path #useful
+bck-i-search: some command
+```
+
+Lịch sử lệnh được lưu trong **file** **``~/.bash_history``**. Khi nó đạt giới hạn, lệnh đầu tiên trọng nó sẽ bị xoá để chứa lệnh tiếp theo. Mặc định là giới hạn 500 lệnh, nhưng nếu bạn muốn thì bạn có thể sửa đổi **`HISTFILESIZE`** (con số tối đa của file có thể chứa lịch sử **file**) và **`HISTSIZE`** (số của lệnh để nhớ trong lịch sử các lệnh) : biến để thay đổi sử giới hạn 500 dòng lệnh đó. Bạn có thể tìm biến đó ở trong **file** **``~/.profile``** hoặc **``~/.bash_profile``**.
+
+### Tìm hiểu thêm
+
+| 🌏 [Bash History](https://lukas.zapletalovi.com/2013/03/never-lost-your-bash-history-again.html) |
+| ------------------------------------------------------------------------------------------------ |
+
+---
+
+## 3.Thực thi lệnh mà không có lưu nó trong lịch sử
+
+Thêm một hoặc nhiều khoảng cách trước khi lệnh của bạn sẽ cho kết quả trong **`history`** không ghi lại nó.
+
+Nó sẽ hữu dụng cho **passwords** (kết nối mySQL) trên dòng lệnh.
+
+**Ví dụ:**    
+
+```shell
+$ echo 1
+1
+$  echo 2
+2
+$ echo 3
+3
+$ history
+    ...
+    501 echo 1
+    502 echo 3
+    503 history
+```
+
+Điều này sẽ không hoạt động bởi mặc định một số thiết lập của **`shell`**.
+
+---
+
+## 4. Terminal ẩn danh
+
+Để tắt dòng lệnh đăng nhập vào **Terminal** một cách tạm thời, hãy sử lệnh 1 trong 2 lênh sau:
+
+```shell
+$ set +o history
+```
+
+```shell
+$ shopt -uo history
+```
+
+Để bật nó trở lại, hãy chạy 1 trong 2 lệnh sau:
+
+```shell
+$ set -o history
+```
+
+```shell
+$ shopt -so history
+```
+
+Sự khác nhau của 2 dòng lệnh là không đáng kệ, cả 2 đều sửa lỗi hành vi tuỳ chọn của **`shell`**.
+
+---
+
+
