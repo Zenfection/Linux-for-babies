@@ -44,6 +44,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 15.Super users và root](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/15.Super%20users%20%26%20Root.md)
 
+            ➡  [Bài 16.Lịch sử Terminal](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/16.Terminal%20historymd)
+
 ### ——Công việc & quy trình thao tác dữ liệu
 
 ### —— Hệ thống & Quản lí gói
