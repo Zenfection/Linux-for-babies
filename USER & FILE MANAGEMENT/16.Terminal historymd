@@ -103,4 +103,24 @@ Sự khác nhau của 2 dòng lệnh là không đáng kệ, cả 2 đều sửa
 
 ---
 
+## 5. Clear lịch sử **`bash`**
 
+Nếu không thay đổi mọi lệnh đã thực thi trên hệ thống **Linux** sẽ lưu trữ trong file **`.bash_history`**.
+
+**File** đó ở trong **home directory** của người dùng thực thi lệnh. Nếu bạn cần **clear** lịch sử hiện tại của bạn, bạn hãy chạy lệnh sau:
+
+```shell
+$ cat /dev/null > ~/.bash_history
+$ history -c
+```
+
+Để **clear** file người dùng khác bạn thực hiện tương tự như sau:
+
+```shell
+$ cat /dev/null > /home/otherUser/.bash_history
+```
+
+Hãy nhớ rằng chúng ta được đăng nhập với quyền **`root`** **clear** file **`bash_history`** của người dùng khác.
+
+| 🔙 [Bài 15.Super user & Root](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/15.Super%20users%20%26%20Root.md) |     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
