@@ -1,0 +1,119 @@
+# Công cụ Pipeline (đường ống)
+
+## 1. Sử dụng **`xargs`** để build lệnh
+
+Sử dụng **`xargs`** để xây dựng và thực thi lệnh từ **`stdin`**. Điều này thường cung cấp một cấu trúc đơn giản hơn so với việc sử dụng các vòng lặp rõ ràng
+
+Xem **ví dụ sau:**
+
+```shell
+$ echo 1 2 3 4 | xargs echo
+// output 1 2 3 4
+```
+
+**flag** **`-n`** để xác định đầu ra lớn nhất cho mỗi dòng lệnh:
+
+```shell
+$ echo 1 2 3 4 | xargs -n 2
+// output (2 per line):
+// 1 2
+// 3 4
+```
+
+Giả sử bạn muốn xoá tất cả các **files** trong **``/path``**:
+
+```shell
+$ rm `find /path -type f`
+```
+
+Chạy lệnh trên có khi không thành công bởi vì có rất nhiều **files** trong **``/path``**, vượt quá độ dài dòng lệnh cho phép.
+
+Thay vào đó, hãy chạy dòng lệnh này sẽ ổn hơn:
+
+```shell
+find /path -type f -print | xargs rm
+```
+
+Sự khác nhau về **`xargs`** sẽ in đầu vào lấy từ **`find`** trong danh sách phụ và gọi lệnh **`rm`** cho mỗi cái.
+
+Cho các lệnh yêu cầu nhiều hơn một đối số tại một thời điểm, trình tạo danh sách với đối số mặc định **`{}`** sử dụng như sau:
+
+```shell
+$ find . -name "*.bak" -print0 |
+xargs -0 -I mv {} ~/old.files
+```
+
+Đầu ra từ **`find`** sẽ thay thế cho mọi file tìm thấy cả 2 lần **`{}`** xuất hiện.
+
+---
+
+## 2. Giám sát quá trình của dữ liệu qua đường ống với **`pv`**
+
+Bạn có thể sử dụng **`pv`** để giám sát quá trình của bất kỳ đường ống nào.
+
+Điều này có thể được bằng cách cài đặt **`pv`** và đặt giữa đầu vào/đầu ra đường ống.
+
+Để cài đặt **pv**:    
+
+```shell
+$ sudo apt-get install pv
+```
+
+**Ví dụ:**    
+
+```shell
+$ dd if=/dev/urandom | pv | dd of=/dev/null
+```
+
+Đầu ra:
+
+```shell
+1,74MB : 0:00:09 [ 198kB/s] [ <=> ]
+```
+
+Bạn có thể xác định gần đúng kích thước với **`-size`** nếu bạn muốn khoảng thời gian.
+
+Bạn cũng có thể sử dụng nó để **output** **`stdout`**:
+
+```shell
+$ pv /home/user/bigfile.iso | md5sum
+```
+
+Đầu ra:
+
+```shell
+50,2MB 0:00:06 [8,66MB/s]
+[==>  ] 49% ETA 0:00:06
+```
+
+**Chú ý:** Trong trường hợp này, **`pv`** nhìn nhận kích thước tự động.
+
+Sử dụng **`pv`** chứng minh rằng nó vô cùng hữu ích khi hoạt động với file kích thước lớn và quá trình dài để hoàn thành.
+
+**Ví dụ:** Bạn có thể theo dõi tốc độ của một tệp truyền đi với lệnh **`nc`**:
+
+```shell
+$ pv myFile | nc -w 1 example.com 3000
+```
+
+---
+
+## 3.Trùng lặp nội dung đường ống với **`tee`**
+
+Để trùng lặp nội dụng trong khi đường ống bạn có thể sử dụng tiện ích **`tee`**
+
+Một cách đơn giản và hữu hiệu để ví dụ rằng **`tee`** có thể sử dụng để ghi nhiều **files** đồng thời.
+
+Lệnh đó thực hiện như sau:
+
+```shell
+$ ps | tee fileone filetwo filethree
+```
+
+Đầu ra của lệnh **`ps`** bây giờ là 3 file khác nhau.
+
+Để nối **data** với **files**, Bắt buộc phải sử dụng **flag** **`-a`**:
+
+```shell
+$ ps | tee -a fileone filetwo filethree
+```
