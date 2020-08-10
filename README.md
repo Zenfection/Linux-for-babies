@@ -48,6 +48,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 17.Công cụ Pipeline](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/17.Pipeline%20tools.md)
 
+            ➡  [Bài 18.Tiện ích quản lí người dùng](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/18.user%20management%20utilities.md)
+
 ### ——Công việc & quy trình thao tác dữ liệu
 
 ### —— Hệ thống & Quản lí gói
