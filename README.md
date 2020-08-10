@@ -46,6 +46,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 16.Lịch sử Terminal](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/16.Terminal%20history.md)
 
+            ➡  [Bài 17.Công cụ Pipeline](https://github.com/Zenfection/Linux-for-babies/blob/master/USER%20%26%20FILE%20MANAGEMENT/17.Pipeline%20tools.md)
+
 ### ——Công việc & quy trình thao tác dữ liệu
 
 ### —— Hệ thống & Quản lí gói
