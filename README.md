@@ -52,7 +52,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
 ### ——Công việc & quy trình thao tác dữ liệu
 
-➡  [Bài 1.Nền tảng của quản lí tiến trình](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/1.Basics%20of%20process%20management.md)
+            ➡  [Bài 1.Nền tảng của quản lí tiến trình](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/1.Basics%20of%20process%20management.md)
 
 ### —— Hệ thống & Quản lí gói
 
