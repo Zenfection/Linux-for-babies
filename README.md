@@ -54,6 +54,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 1.Nền tảng của quản lí tiến trình](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/1.Basics%20of%20process%20management.md)
 
+            ➡  [Bài 2.File streams](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/2.File%20Streams.md)
+
 ### —— Hệ thống & Quản lí gói
 
 ### —— Mạng & Bảo mật
