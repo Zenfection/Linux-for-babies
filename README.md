@@ -56,6 +56,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 2.File streams](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/2.File%20Streams.md)
 
+            ➡  [Grep và tác vụ nền](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/3.Grep%26Background%20tasks.md)
+
 ### —— Hệ thống & Quản lí gói
 
 ### —— Mạng & Bảo mật
