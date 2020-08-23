@@ -60,6 +60,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 4:Tiện ích](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/4.Utilities.md)
 
+            ➡  [Bài 5.Làm việc với files](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/5.Working%20with%20files.md)
+
 ### —— Hệ thống & Quản lí gói
 
 ### —— Mạng & Bảo mật
