@@ -58,6 +58,8 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 
             ➡  [Bài 3:Grep và tác vụ nền](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/3.Grep%26Background%20tasks.md)
 
+            ➡  [Bài 4:Tiện ích](https://github.com/Zenfection/Linux-for-babies/blob/master/Jobs%20%26%20Processes%2C%20Data%20Manipulation/4.Utilities.md)
+
 ### —— Hệ thống & Quản lí gói
 
 ### —— Mạng & Bảo mật
