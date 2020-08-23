@@ -1,0 +1,71 @@
+# Làm việc với files
+
+## 1. **`sort`** (sắp xếp) dòng của một file văn bản
+
+Trong **Linux** và **Unix** lệnh **`sort`** được sử dụng để sắp xếp nội dung trong **file** văn bản từng dòng một. Lệnh **`sort`** sẽ sắp xếp nội dung của một file theo chữ cái và xuất nó ra:
+
+![2020-08-23 11.44.51.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-11-47-20-2020-08-23%2011.44.51.gif)
+
+Thêm tuỳ chọn **`-o`** nếu bạn muốn xác định đầu ra của file:
+
+![2020-08-23 11.47.58.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-11-51-11-2020-08-23%2011.47.58.gif)
+
+Nếu bạn muốn kiểm tra **file** có sẵn hay không, sử dụng tuỳ chọn **`-c`**
+
+### Tìm hiểu thêm
+
+| [Cách sử dụng sort](https://www.computerhope.com/unix/usort.htm) |
+| ---------------------------------------------------------------- |
+
+---
+
+## 2. Loại bỏ dòng trùng lặp
+
+Đây là lệnh cho bạn để làm điều đó:
+
+```shell
+awk '!(count[$0]++)' file_to_filter
+```
+
+Đây là cách sử dụng lệnh **`awk`** để in sự xuất hiện của mọi dòng, bất kể bao nhiêu dòng cùng 1 lần sẽ xuất hiện sau đó - **`{print}`** là hướng dẫn mặc định
+
+Khi một dòng lệnh đọc (**`$0`** là tham chiếu dòng hiện tại), nó sẽ thêm vào một mảng theo dõi tần suất xuất hiện.
+
+Lần đầu tiên gặp 1 dòng, **awk** sẽ in nó bởi vì **`!0`** tương đướng với **true**. Nếu dòng đó xuất hiện trước đó **`!count[line]`** sẽ chỉ xuất ra **false**, Vì thế nó sẽ không in lại lần nữa
+
+Hoặc bạn cũng có thể sắp xếp dòng của mình như sau:
+
+```shell
+sort file_to_filter | uniq
+```
+
+Nếu *file_to_filter* chứa nội dụng như sau:
+
+```textile
+cookie
+cookie
+doughnut
+cake
+croissant
+cake
+```
+
+Thì đầu ra sẽ là:
+
+```shell
+#awk
+cookie
+doughnut
+cake
+croissant
+
+#sort
+cake
+cookie
+croissant
+doughnut
+```
+
+---
+
+
